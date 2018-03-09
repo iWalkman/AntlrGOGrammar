@@ -1,0 +1,7 @@
+Y:\IdeaProjects\ANTLR\Go\AntlrGO\AntlrGO\bin\Debug\AntlrGO.exe.config
+Y:\IdeaProjects\ANTLR\Go\AntlrGO\AntlrGO\bin\Debug\AntlrGO.exe
+Y:\IdeaProjects\ANTLR\Go\AntlrGO\AntlrGO\bin\Debug\AntlrGO.pdb
+Y:\IdeaProjects\ANTLR\Go\AntlrGO\AntlrGO\bin\Debug\Antlr4.Runtime.dll
+Y:\IdeaProjects\ANTLR\Go\AntlrGO\AntlrGO\obj\Debug\AntlrGO.csprojResolveAssemblyReference.cache
+Y:\IdeaProjects\ANTLR\Go\AntlrGO\AntlrGO\obj\Debug\AntlrGO.exe
+Y:\IdeaProjects\ANTLR\Go\AntlrGO\AntlrGO\obj\Debug\AntlrGO.pdb

@@ -1,0 +1,15 @@
+import "fmt"
+
+type Rectangle struct {
+length, width int
+name, name1, n, f__ string
+}
+
+func main() {
+length := 3 + 4
+r1 := Rectangle{width:5, length:6, name:"myr_1"}
+fmt.Println("Rectangle r1 is: ", r1)
+
+r2 := Rectangle{width:7, name:"my*r2", length:6}
+fmt.Println("Rectangle r2 is: ", r2)
+}
